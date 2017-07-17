@@ -1,0 +1,1 @@
+COPYRIGHT (c) Sam Kane
